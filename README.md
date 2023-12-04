@@ -20,23 +20,20 @@ This repository contains implementations of various Data Structures and Algorith
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/DSA.git
+git clone [https://github.com/your-username/DSA.git](https://github.com/MuhammadBilal0111/Data-Structures-and-Algorithms.git)
 cd DSA
 ```
-Compile and Run
-Compile and run the C++ programs using your preferred compiler. For example:
-```
-g++ filename.cpp -o output
-./output
-```
-Contributing
+
+<h1>Contributing</h1>
 Contributions are welcome! If you'd like to add new algorithms, data structures, or improve existing code, please follow our contribution guidelines.
 
-Acknowledgments
+<h1>Acknowledgments</h1>
 Inspiration: Mention any books, courses, or online resources that inspired this project.
 Credits: Give credit to contributors or libraries that significantly influenced your code.
-License
+
+<h1>License</h1>
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 ### Additional Notes:
 
 - The template includes sections for overview, content, getting started, contributing, acknowledgments, and license. You can adjust or expand these sections based on your project's specific needs.
